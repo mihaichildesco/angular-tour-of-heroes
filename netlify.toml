@@ -1,4 +1,4 @@
-[[build]]
+[build]
   command = "ng build --prod"
   publish = "dist/angular-tour-of-heroes"
 
